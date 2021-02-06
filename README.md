@@ -1,5 +1,6 @@
 # Ricardo Teixeira
 ### Hi there 👋
+https://img.shields.io/badge/-Ricardo%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/
 
 <!--
 **Ricardo-script/Ricardo-script** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
