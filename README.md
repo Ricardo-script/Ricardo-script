@@ -11,18 +11,17 @@ Amo codar 💻, resolver problemas e criar apps modernos!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-script&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-vpU8qc29eRFOVB7t2xR3t+9QA5duZM6yNX0Mp2GSDkkvEkntHD4+LB4DH7gO9DIv" crossorigin="anonymous">
-
 <div style="display: inline_block"><br>
-  <i class="fab fa-node-js" style="color: green; font-size: 30px;"></i>
-  <i class="fab fa-bootstrap" style="color: purple; font-size: 30px;"></i>
-  <i class="fab fa-react" style="color: blue; font-size: 30px;"></i>
-  <i class="fab fa-reacteurope" style="color: cyan; font-size: 30px;"></i>
-  <i class="fab fa-js" style="color: yellow; font-size: 30px;"></i>
-  <i class="fab fa-html5" style="color: orange; font-size: 30px;"></i>
-  <i class="fab fa-css3-alt" style="color: blue; font-size: 30px;"></i>
+  <img align="center" alt="Rick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rick-Node" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg">
+  <img align="center" alt="Rick-Csharp" height="30" width="30" src="https://kde.technology/blog/media/blog/1024px-Bootstrap_logo.svg.png">
+  <img align="center" alt="Rick-Csharp" height="30" width="30" src="https://devkico.itexto.com.br/wp-content/uploads/2020/02/electron_logo.png">
+  <img align="center" alt="Rick-Csharp" height="34" width="34" src="https://images.opencollective.com/strapi/3ec3247/logo/256.png">
 </div>
-
   
 ##
   
