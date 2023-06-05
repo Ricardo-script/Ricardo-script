@@ -17,10 +17,16 @@ Amo codar 💻, resolver problemas e criar apps modernos!
   <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rick-Node" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg">
-  <img align="center" alt="Rick-Csharp" height="30" width="30" src="https://kde.technology/blog/media/blog/1024px-Bootstrap_logo.svg.png">
-  <img align="center" alt="Rick-Csharp" height="30" width="30" src="https://devkico.itexto.com.br/wp-content/uploads/2020/02/electron_logo.png">
-  <img align="center" alt="Rick-Csharp" height="34" width="34" src="https://images.opencollective.com/strapi/3ec3247/logo/256.png">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://simpleicons.org/icons/next-dot-js.svg">
+  <img align="center" alt="React Native" height="30" width="40" src="https://simpleicons.org/icons/react.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://simpleicons.org/icons/node-dot-js.svg">
+  <img align="center" alt="Express.js" height="30" width="40" src="https://simpleicons.org/icons/express.svg">
+  <img align="center" alt="Bootstrap" height="30" width="30" src="https://simpleicons.org/icons/bootstrap.svg">
+  <img align="center" alt="Material-UI" height="30" width="30" src="https://simpleicons.org/icons/material-ui.svg">
+  <img align="center" alt="Electron" height="30" width="30" src="https://simpleicons.org/icons/electron.svg">
+  <img align="center" alt="Strapi" height="34" width="34" src="https://images.opencollective.com/strapi/3ec3247/logo/256.png">
+  <img align="center" alt="Prisma" height="30" width="30" src="https://simpleicons.org/icons/prisma.svg">
+</div>
 </div>
   
 ##
