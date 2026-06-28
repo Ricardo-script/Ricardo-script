@@ -1,7 +1,6 @@
 # Ricardo Teixeira
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardo-teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/)
-[![Email](https://img.shields.io/badge/Email-ricardo.dev%40mail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo.dev@mail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/)](https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/) 
 
 Desenvolvedor apaixonado por criar produtos digitais modernos, com foco na experiência do usuário, com interesse especial em desenvolvimento mobile e front-end, arquitetura de software, interfaces bem pensadas e boas práticas de engenharia.
 
