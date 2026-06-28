@@ -6,7 +6,7 @@ Desenvolvedor apaixonado por criar produtos digitais modernos, com foco na exper
 
 ## Sobre mim
 
-- 🚀 Desenvolvendo soluções com React Native, Expo e TypeScript
+- 🚀 Desenvolvendo soluções com React, React Native, Expo e TypeScript
 - 🧠 Interessado em arquitetura limpa, organização de código
 - 📱 Focado em criar apps mobile com navegação fluida, performance e experiência profissional
 - 🛠️ Sempre buscando aprender novas tecnologias e melhorar processos de desenvolvimento
