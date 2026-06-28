@@ -1,43 +1,49 @@
-### Hi there 👋😄 
-[![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/)](https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/) 
+# Ricardo Teixeira
 
-![avatar](https://user-images.githubusercontent.com/64698638/212164470-bbe0d473-b268-422c-8610-614fed194126.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardo-teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/)
+[![Email](https://img.shields.io/badge/Email-ricardo.dev%40mail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo.dev@mail.com)
 
-Amo codar 💻, resolver problemas e criar apps modernos!
+Desenvolvedor apaixonado por criar produtos digitais modernos, com foco na experiência do usuário, com interesse especial em desenvolvimento mobile e front-end, arquitetura de software, interfaces bem pensadas e boas práticas de engenharia.
 
-<div>
-  <a href="https://github.com/ricardo-script">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo-script&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-script&layout=compact&langs_count=7&theme=tokyonight"/>
+## Sobre mim
+
+- 🚀 Desenvolvendo soluções com React Native, Expo e TypeScript
+- 🧠 Interessado em arquitetura limpa, organização de código
+- 📱 Focado em criar apps mobile com navegação fluida, performance e experiência profissional
+- 🛠️ Sempre buscando aprender novas tecnologias e melhorar processos de desenvolvimento
+
+## Stack principal
+
+![React Native](https://img.shields.io/badge/React%20Native-0.81.5-61DAFB)
+![Expo](https://img.shields.io/badge/Expo-~54.0.34-000020)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6)
+![React Query](https://img.shields.io/badge/React%20Query-5.x-FF4154)
+![Zustand](https://img.shields.io/badge/Zustand-5.x-764ABC)
+![NativeWind](https://img.shields.io/badge/NativeWind-4.x-38BDF8)
+
+## Projetos em destaque
+
+- [Ecommerce Elevata Mobile](https://github.com/Ricardo-script/Ecommerce-Elevata-Mobile): projeto de demonstração técnica com autenticação, navegação, consumo de API pública, arquitetura MVVM e organização modular.
+- Desenvolvimento de interfaces modernas e componentes reutilizáveis para aplicações mobile.
+
+## Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo-script&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-script&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rick-Node" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg">
-  <img align="center" alt="Rick-Csharp" height="30" width="30" src="https://kde.technology/blog/media/blog/1024px-Bootstrap_logo.svg.png">
-  <img align="center" alt="Rick-Csharp" height="30" width="30" src="https://devkico.itexto.com.br/wp-content/uploads/2020/02/electron_logo.png">
-  <img align="center" alt="Rick-Csharp" height="34" width="34" src="https://images.opencollective.com/strapi/3ec3247/logo/256.png">
-</div>
-  
-##
-  
-<!--
-**Ricardo-script/Ricardo-script** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Ferramentas e tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</p>
 
+## Contato
 
+Se quiser conversar sobre tecnologia, projetos ou oportunidades, estou sempre aberto a conexões.
