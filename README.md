@@ -43,6 +43,44 @@ Desenvolvedor apaixonado por criar produtos digitais modernos, com foco na exper
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
+## Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="act" src="https://media.licdn.com/dms/image/v2/D4D0BAQGRoxb4M0rYAQ/company-logo_200_200/company-logo_200_200/0/1737055097516/act_digital_logo?e=1784160000&v=beta&t=kjVII-HWUr0GOPMlvpJX4Rzqfjkkn_kimoIjGJVaqDM"/>](https://actdigital.com/pt/)
+
+**Mobile Developer** \
+[**ACT**](https://actdigital.com/pt/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Typescript`, \
+Projetos em destaque: [App Caixa vida e previdência](https://www.caixavidaeprevidencia.com.br/home)
+<br/>
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4E0BAQE1VTaowzzCEw/company-logo_100_100/company-logo_100_100/0/1637180280463/tradeupgroup_logo?e=1784160000&v=beta&t=k4Wpgp4YYmFc2Ss4vdApYk4xq4IagvYTfhdl_FT8_OE"/>](https://www.tradeupgroup.com/)
+
+**Desenvolvdor Front-end/Mobile** \
+[**Tradeup**](https://www.tradeupgroup.com/) • Contract \
+Linguagens & Tecnologias: `React`, `React-native`, `Vue`, `Typescript`,\
+Projetos em destaque: [App mobile Base Armalite](https://www.basearmalite.com.br/), [Tim mais vendas](https://play.google.com/store/apps/details?id=com.timvendas&hl=pt_BR)
+<br/>
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Greenwave" src="https://media.licdn.com/dms/image/v2/C4D0BAQHkIBQMgP6jBQ/company-logo_100_100/company-logo_100_100/0/1630565078721?e=1784160000&v=beta&t=my2v7D4w5Zq-Kp2NiGr2Yv5kNH1BXpqXioVbUKwOBJ0"/>](https://www.greenwave.ind.br/)
+
+**Frot-end Developer** \
+[**Greenwave**](https://www.greenwave.ind.br/) • Contract \
+Linguagens & Tecnologias: `React`, `Typescript`, `React-native`\
+Projetos em destaque: [Sistema semafórico Phor](https://www.greenwave.ind.br/),
+<br/>
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Greenwave" src="https://media.licdn.com/dms/image/v2/D4D0BAQHdbCKw1gP0bg/company-logo_200_200/company-logo_200_200/0/1737385059585/econverse_logo?e=1784160000&v=beta&t=ENkSB9aIzv1zDNmoh03ZJibHiAXFEfftyEosHZkQqDQ"/>](https://www.econverse.com.br/)
+
+**Frot-end Developer** \
+[**Econverse**](https://www.econverse.com.br/) • Contract \
+Linguagens & Tecnologias: `HTML`, `CSS`, `Javascript`\
+Projetos em destaque: [Ecomerce DazRoupaz](https://www.dazroupaz.com.br/),
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ricardo-teixeira-19389718a/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
 ## Contato
 
 Se quiser conversar sobre tecnologia, projetos ou oportunidades, estou sempre aberto a conexões.
