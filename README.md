@@ -21,15 +21,19 @@ Desenvolvedor apaixonado por criar produtos digitais modernos, com foco na exper
 ![Zustand](https://img.shields.io/badge/Zustand-5.x-764ABC)
 ![NativeWind](https://img.shields.io/badge/NativeWind-4.x-38BDF8)
 
-## Projetos em destaque
+## ⭐ Projetos em destaque
 
-- [Ecommerce Elevata Mobile](https://github.com/Ricardo-script/Ecommerce-Elevata-Mobile): Projeto pessoal desenvolvido para demonstrar a organização e as práticas utilizadas no desenvolvimento de aplicações React Native, incluindo arquitetura MVVM, consumo de APIs, gerenciamento de estado e componentes para serem reutilizados.
+### Ecommerce Elevata Mobile
 
-**Tecnologias:**
+Aplicação pessoal desenvolvido para demonstrar a organização e as práticas utilizadas no desenvolvimento de aplicações React Native, incluindo arquitetura MVVM, consumo de APIs, gerenciamento de estado e componentes para serem reutilizados.
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Expo Router](https://img.shields.io/badge/Expo%20Router-000020?style=for-the-badge&logo=expo&logoColor=white) ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+- Arquitetura MVVM
+- Expo Router
+- Consumo de APIs
+- Gerenciamento de estado
 
-🔗 **Repositório:** https://github.com/Ricardo-script/Ecommerce-Elevata-Mobile
+🔗 **Repositório:**  
+https://github.com/Ricardo-script/Ecommerce-Elevata-Mobile
 
 ## Estatísticas
 
