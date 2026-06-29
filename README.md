@@ -76,7 +76,7 @@ Projetos em destaque: [Sistema semafórico Phor](https://www.greenwave.ind.br/),
 **Frot-end Developer** \
 [**Econverse**](https://www.econverse.com.br/) • Contract \
 Linguagens & Tecnologias: `HTML`, `CSS`, `Javascript`\
-Projetos em destaque: [Ecomerce DazRoupaz](https://www.dazroupaz.com.br/),
+Projetos em destaque: [Site Ecomerce DazRoupaz](https://www.dazroupaz.com.br/),
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ricardo-teixeira-19389718a/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
