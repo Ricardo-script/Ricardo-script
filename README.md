@@ -22,7 +22,7 @@ Desenvolvedor apaixonado por criar produtos digitais modernos, com foco na exper
 
 ## Projetos em destaque
 
-- [Ecommerce Elevata Mobile](https://github.com/Ricardo-script/Ecommerce-Elevata-Mobile): projeto de demonstração técnica com autenticação, navegação, consumo de API pública, arquitetura MVVM e organização modular.
+- [Ecommerce Elevata Mobile](https://github.com/Ricardo-script/Ecommerce-Elevata-Mobile): Projeto de demonstração técnica com autenticação, navegação, consumo de API pública, arquitetura MVVM e organização modular.
 - Desenvolvimento de interfaces modernas e componentes reutilizáveis para aplicações mobile.
 
 ## Estatísticas
