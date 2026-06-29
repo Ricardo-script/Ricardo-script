@@ -6,10 +6,11 @@ Desenvolvedor apaixonado por criar produtos digitais modernos, com foco na exper
 
 ## Sobre mim
 
-- 🚀 Desenvolvendo soluções com React, React Native, Expo e TypeScript
-- 🧠 Interessado em arquitetura limpa, organização de código
-- 📱 Focado em criar apps mobile com navegação fluida, performance e experiência profissional
-- 🛠️ Sempre buscando aprender novas tecnologias e melhorar processos de desenvolvimento
+- Desenvolvimento de aplicações com React Native, Expo, React e TypeScript
+📱 Experiência na criação de aplicações corporativas para empresas de grande porte
+🏗️ Organização de projetos utilizando arquitetura MVVM, Clean Architecture e componentes reutilizáveis
+⚡ Foco em performance, escalabilidade e experiência do usuário
+📚 Aprendizado contínuo em engenharia de software e desenvolvimento mobile
 
 ## Stack principal
 
@@ -22,8 +23,13 @@ Desenvolvedor apaixonado por criar produtos digitais modernos, com foco na exper
 
 ## Projetos em destaque
 
-- [Ecommerce Elevata Mobile](https://github.com/Ricardo-script/Ecommerce-Elevata-Mobile): Projeto de demonstração técnica com autenticação, navegação, consumo de API pública, arquitetura MVVM e organização modular.
-- Desenvolvimento de interfaces modernas e componentes reutilizáveis para aplicações mobile.
+- [Ecommerce Elevata Mobile](https://github.com/Ricardo-script/Ecommerce-Elevata-Mobile): Projeto pessoal desenvolvido para demonstrar a organização e as práticas utilizadas no desenvolvimento de aplicações React Native, incluindo arquitetura MVVM, consumo de APIs, gerenciamento de estado e componentes para serem reutilizados.
+
+**Tecnologias:**
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Expo Router](https://img.shields.io/badge/Expo%20Router-000020?style=for-the-badge&logo=expo&logoColor=white) ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+🔗 **Repositório:** https://github.com/Ricardo-script/Ecommerce-Elevata-Mobile
 
 ## Estatísticas
 
@@ -50,7 +56,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="act" src="https://media.licdn.com/dms/image/v2/D4D0BAQGRoxb4M0rYAQ/company-logo_200_200/company-logo_200_200/0/1737055097516/act_digital_logo?e=1784160000&v=beta&t=kjVII-HWUr0GOPMlvpJX4Rzqfjkkn_kimoIjGJVaqDM"/>](https://actdigital.com/pt/)
 
 **Mobile Developer** \
-[**ACT**](https://actdigital.com/pt/) • Contract \
+[**ACT**](https://actdigital.com/pt/) • Full-time \
 Linguagens & Tecnologias: `React Native`, `Typescript`, \
 Projetos em destaque: [App Caixa vida e previdência](https://www.caixavidaeprevidencia.com.br/home)
 <br/>
@@ -58,7 +64,7 @@ Projetos em destaque: [App Caixa vida e previdência](https://www.caixavidaeprev
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4E0BAQE1VTaowzzCEw/company-logo_100_100/company-logo_100_100/0/1637180280463/tradeupgroup_logo?e=1784160000&v=beta&t=k4Wpgp4YYmFc2Ss4vdApYk4xq4IagvYTfhdl_FT8_OE"/>](https://www.tradeupgroup.com/)
 
 **Front-end Developer/Mobile Developer** \
-[**Tradeup**](https://www.tradeupgroup.com/) • Contract \
+[**Tradeup**](https://www.tradeupgroup.com/) • Full-time \
 Linguagens & Tecnologias: `React`, `React-native`, `Vue`, `Typescript`,\
 Projetos em destaque: [App mobile Base Armalite](https://www.basearmalite.com.br/), [Tim mais vendas](https://play.google.com/store/apps/details?id=com.timvendas&hl=pt_BR)
 <br/>
@@ -66,7 +72,7 @@ Projetos em destaque: [App mobile Base Armalite](https://www.basearmalite.com.br
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Greenwave" src="https://media.licdn.com/dms/image/v2/C4D0BAQHkIBQMgP6jBQ/company-logo_100_100/company-logo_100_100/0/1630565078721?e=1784160000&v=beta&t=my2v7D4w5Zq-Kp2NiGr2Yv5kNH1BXpqXioVbUKwOBJ0"/>](https://www.greenwave.ind.br/)
 
 **Frot-end Developer** \
-[**Greenwave**](https://www.greenwave.ind.br/) • Contract \
+[**Greenwave**](https://www.greenwave.ind.br/) • Full-time \
 Linguagens & Tecnologias: `React`, `Typescript`, `React-native`\
 Projetos em destaque: [Sistema semafórico Phor](https://www.greenwave.ind.br/),
 <br/>
@@ -74,7 +80,7 @@ Projetos em destaque: [Sistema semafórico Phor](https://www.greenwave.ind.br/),
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Greenwave" src="https://media.licdn.com/dms/image/v2/D4D0BAQHdbCKw1gP0bg/company-logo_200_200/company-logo_200_200/0/1737385059585/econverse_logo?e=1784160000&v=beta&t=ENkSB9aIzv1zDNmoh03ZJibHiAXFEfftyEosHZkQqDQ"/>](https://www.econverse.com.br/)
 
 **Frot-end Developer** \
-[**Econverse**](https://www.econverse.com.br/) • Contract \
+[**Econverse**](https://www.econverse.com.br/) • Full-time \
 Linguagens & Tecnologias: `HTML`, `CSS`, `Javascript`\
 Projetos em destaque: [Site Ecomerce DazRoupaz](https://www.dazroupaz.com.br/),
 <br/>
