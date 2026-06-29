@@ -57,7 +57,7 @@ Projetos em destaque: [App Caixa vida e previdência](https://www.caixavidaeprev
 
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4E0BAQE1VTaowzzCEw/company-logo_100_100/company-logo_100_100/0/1637180280463/tradeupgroup_logo?e=1784160000&v=beta&t=k4Wpgp4YYmFc2Ss4vdApYk4xq4IagvYTfhdl_FT8_OE"/>](https://www.tradeupgroup.com/)
 
-**Desenvolvdor Front-end/Mobile** \
+**Front-end Developer/Mobile Developer** \
 [**Tradeup**](https://www.tradeupgroup.com/) • Contract \
 Linguagens & Tecnologias: `React`, `React-native`, `Vue`, `Typescript`,\
 Projetos em destaque: [App mobile Base Armalite](https://www.basearmalite.com.br/), [Tim mais vendas](https://play.google.com/store/apps/details?id=com.timvendas&hl=pt_BR)
