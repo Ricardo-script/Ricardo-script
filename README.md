@@ -6,11 +6,11 @@ Desenvolvedor Front-end e Mobile, formado em Análise e Desenvolvimento de Siste
 
 ## Sobre mim
 
-📱 Desenvolvedor Front-end e Mobile com experiência em React Native, Expo, React e TypeScript
-🏢 Participação no desenvolvimento de aplicações corporativas para empresas de grande porte
-🏗️ Organização de projetos utilizando MVVM, Clean Architecture e reutilização de componentes
-⚡ Foco em performance, escalabilidade e experiência do usuário
-📚 Interesse por arquitetura de software, desenvolvimento mobile e boas práticas no desenvolvimento
+- 📱 Desenvolvedor Front-end e Mobile com experiência em React Native, Expo, React e TypeScript
+- 🏢 Participação no desenvolvimento de aplicações corporativas para empresas de grande porte
+- 🏗️ Organização de projetos utilizando MVVM, Clean Architecture e reutilização de componentes
+- ⚡ Foco em performance e experiência do usuário
+- 📚 Interesse por arquitetura de software, desenvolvimento mobile e boas práticas no desenvolvimento
 
 ## Stack principal
 
