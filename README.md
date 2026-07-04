@@ -2,15 +2,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/)](https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/) 
 
-Desenvolvedor apaixonado por criar produtos digitais modernos, com foco na experiência do usuário, com interesse especial em desenvolvimento mobile e front-end, arquitetura de software, interfaces bem pensadas e boas práticas de engenharia.
+Desenvolvedor Front-end e Mobile, formado em Análise e Desenvolvimento de Sistemas, com experiência na criação de aplicações corporativas para empresas de diferentes segmentos. Atuo principalmente com React Native, Expo, React e TypeScript, buscando desenvolver soluções bem estruturadas, performáticas e de fácil manutenção.
 
 ## Sobre mim
 
-- Desenvolvimento de aplicações com React Native, Expo, React e TypeScript
-📱 Experiência na criação de aplicações corporativas para empresas de grande porte
-🏗️ Organização de projetos utilizando arquitetura MVVM, Clean Architecture e componentes reutilizáveis
+📱 Desenvolvedor Front-end e Mobile com experiência em React Native, Expo, React e TypeScript
+🏢 Participação no desenvolvimento de aplicações corporativas para empresas de grande porte
+🏗️ Organização de projetos utilizando MVVM, Clean Architecture e reutilização de componentes
 ⚡ Foco em performance, escalabilidade e experiência do usuário
-📚 Aprendizado contínuo em engenharia de software e desenvolvimento mobile
+📚 Interesse por arquitetura de software, desenvolvimento mobile e boas práticas no desenvolvimento
 
 ## Stack principal
 
