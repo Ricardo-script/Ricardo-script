@@ -102,3 +102,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ricardo-teixeir
 ## Contato
 
 Se quiser conversar sobre tecnologia, projetos ou oportunidades, estou sempre aberto a conexões.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ricardo-teixeira-silva&color=brightgreen&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil"/>
+</p>
