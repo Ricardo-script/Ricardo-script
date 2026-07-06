@@ -33,7 +33,7 @@ Aplicação pessoal desenvolvido para demonstrar a organização e as práticas 
 - Gerenciamento de estado
 
 🔗 **Repositório:**  
-https://github.com/Ricardo-script/Ecommerce-Elevata-Mobile
+https://github.com/ricardo-teixeira-silva/Ecommerce-Elevata-Mobile
 
 ## Estatísticas
 
