@@ -34,16 +34,17 @@ Aplicação pessoal desenvolvida para demonstrar a organização e as práticas 
 </a>
 
 ## Estatísticas
+
 <div align="left">
   <img
     height="150"
     alt="GitHub Stats"
-    src="https://github-readme-stats.profile-readme-generator.com/api?username=ricardo-teixeira-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+    src="https://github-readme-stats.profile-readme-generator.com/api?username=ricardo-teixeira-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1"
   />
   <img
     height="150"
     alt="Top Languages"
-    src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=ricardo-teixeira-silva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
+    src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=ricardo-teixeira-silva&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=7&theme=transparent&hide_border=true&order=2"
   />
 </div>
 
