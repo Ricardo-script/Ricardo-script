@@ -1,16 +1,13 @@
 # Ricardo Teixeira
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/)](https://www.linkedin.com/in/ricardo-teixeira-da-silva-19389718a/) 
-
 Desenvolvedor Front-end e Mobile, formado em Análise e Desenvolvimento de Sistemas, com experiência na criação de aplicações corporativas para empresas de diferentes segmentos. Atuo principalmente com React Native, Expo, React e TypeScript, buscando desenvolver soluções bem estruturadas, performáticas e de fácil manutenção.
 
 ## Sobre mim
 
-- 📱 Desenvolvedor Front-end e Mobile com experiência em React Native, Expo, React e TypeScript
-- 🏢 Participação no desenvolvimento de aplicações corporativas para empresas de grande porte
-- 🏗️ Organização de projetos utilizando MVVM, Clean Architecture e reutilização de componentes
-- ⚡ Foco em performance e experiência do usuário
-- 📚 Interesse por arquitetura de software, desenvolvimento mobile e boas práticas no desenvolvimento
+- 📱 Desenvolvimento Mobile e Front-end com React Native, Expo, React e TypeScript
+- 🏢 Experiência em aplicações corporativas e produtos digitais
+- 🏗️ Arquiteturas como MVVM e Clean Architecture
+- 📚 Interesse por arquitetura de software, qualidade de código e desenvolvimento mobile
 
 ## Stack principal
 
@@ -25,7 +22,7 @@ Desenvolvedor Front-end e Mobile, formado em Análise e Desenvolvimento de Siste
 
 ### Ecommerce Elevata Mobile
 
-Aplicação pessoal desenvolvido para demonstrar a organização e as práticas utilizadas no desenvolvimento de aplicações React Native, incluindo arquitetura MVVM, consumo de APIs, gerenciamento de estado e componentes para serem reutilizados.
+Aplicação pessoal desenvolvida para demonstrar a organização e as práticas utilizadas no desenvolvimento de aplicações React Native, incluindo arquitetura MVVM, consumo de APIs, gerenciamento de estado e componentes para serem reutilizados.
 
 - Arquitetura MVVM
 - Expo Router
@@ -33,14 +30,21 @@ Aplicação pessoal desenvolvido para demonstrar a organização e as práticas 
 - Gerenciamento de estado
 
 <a href="https://github.com/ricardo-teixeira-silva/Ecommerce-Elevata-Mobile">
-  <img width="540" alt="pim-repo-elevata" src="https://github.com/user-attachments/assets/8159256e-241b-4135-845a-df14757b2e8f" />
+  <img width="500" alt="pim-repo-elevata" src="https://github.com/user-attachments/assets/8159256e-241b-4135-845a-df14757b2e8f" />
 </a>
 
 ## Estatísticas
-
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo-script&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-script&layout=compact&langs_count=8&theme=tokyonight" />
+  <img
+    height="150"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.profile-readme-generator.com/api?username=ricardo-teixeira-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+  />
+  <img
+    height="150"
+    alt="Top Languages"
+    src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=ricardo-teixeira-silva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
+  />
 </div>
 
 ## Ferramentas e tecnologias
@@ -84,7 +88,7 @@ Projetos em destaque: [App mobile Base Armalite](https://www.basearmalite.com.br
 
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Greenwave" src="https://media.licdn.com/dms/image/v2/C4D0BAQHkIBQMgP6jBQ/company-logo_100_100/company-logo_100_100/0/1630565078721?e=1784160000&v=beta&t=my2v7D4w5Zq-Kp2NiGr2Yv5kNH1BXpqXioVbUKwOBJ0"/>](https://www.greenwave.ind.br/)
 
-**Frot-end Developer** \
+**Front-end Developer** \
 [**Greenwave**](https://www.greenwave.ind.br/) • Full-time \
 Linguagens & Tecnologias: `React`, `Typescript`, `React-native`\
 Projetos em destaque: [Sistema semafórico Phor](https://www.greenwave.ind.br/),
@@ -92,7 +96,7 @@ Projetos em destaque: [Sistema semafórico Phor](https://www.greenwave.ind.br/),
 
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Greenwave" src="https://media.licdn.com/dms/image/v2/D4D0BAQHdbCKw1gP0bg/company-logo_200_200/company-logo_200_200/0/1737385059585/econverse_logo?e=1784160000&v=beta&t=ENkSB9aIzv1zDNmoh03ZJibHiAXFEfftyEosHZkQqDQ"/>](https://www.econverse.com.br/)
 
-**Frot-end Developer** \
+**Front-end Developer** \
 [**Econverse**](https://www.econverse.com.br/) • Full-time \
 Linguagens & Tecnologias: `HTML`, `CSS`, `Javascript`\
 Projetos em destaque: [Site Ecomerce DazRoupaz](https://www.dazroupaz.com.br/),
