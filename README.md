@@ -32,8 +32,9 @@ Aplicação pessoal desenvolvido para demonstrar a organização e as práticas 
 - Consumo de APIs
 - Gerenciamento de estado
 
-🔗 **Repositório:**  
-https://github.com/ricardo-teixeira-silva/Ecommerce-Elevata-Mobile
+<a href="https://github.com/ricardo-teixeira-silva/Ecommerce-Elevata-Mobile">
+  <img width="540" alt="pim-repo-elevata" src="https://github.com/user-attachments/assets/da8ee2c7-e05f-4cbd-a52e-2dcce79f889f" />
+</a>
 
 ## Estatísticas
 
