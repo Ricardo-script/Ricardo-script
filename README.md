@@ -71,7 +71,7 @@ Aplicação pessoal desenvolvida para demonstrar a organização e as práticas 
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="act" src="https://media.licdn.com/dms/image/v2/D4D0BAQGRoxb4M0rYAQ/company-logo_200_200/company-logo_200_200/0/1737055097516/act_digital_logo?e=1784160000&v=beta&t=kjVII-HWUr0GOPMlvpJX4Rzqfjkkn_kimoIjGJVaqDM"/>](https://actdigital.com/pt/)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="act" src="https://github.com/user-attachments/assets/88bb8376-5f5b-4bf8-aeec-05a279ed3d34" />](https://actdigital.com/pt/)
 
 **Mobile Developer** \
 [**ACT**](https://actdigital.com/pt/) • Full-time \
@@ -79,7 +79,8 @@ Linguagens & Tecnologias: `React Native`, `Typescript`, \
 Projetos em destaque: [App Caixa vida e previdência](https://www.caixavidaeprevidencia.com.br/home)
 <br/>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4E0BAQE1VTaowzzCEw/company-logo_100_100/company-logo_100_100/0/1637180280463/tradeupgroup_logo?e=1784160000&v=beta&t=k4Wpgp4YYmFc2Ss4vdApYk4xq4IagvYTfhdl_FT8_OE"/>](https://www.tradeupgroup.com/)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="tradeup" src="https://github.com/user-attachments/assets/6343deb6-7cb1-4a20-bd06-df8a39f2c0af" />
+](https://www.tradeupgroup.com/)
 
 **Front-end Developer/Mobile Developer** \
 [**Tradeup**](https://www.tradeupgroup.com/) • Full-time \
@@ -87,7 +88,8 @@ Linguagens & Tecnologias: `React`, `React-native`, `Vue`, `Typescript`,\
 Projetos em destaque: [App mobile Base Armalite](https://www.basearmalite.com.br/), [Tim mais vendas](https://play.google.com/store/apps/details?id=com.timvendas&hl=pt_BR)
 <br/>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Greenwave" src="https://media.licdn.com/dms/image/v2/C4D0BAQHkIBQMgP6jBQ/company-logo_100_100/company-logo_100_100/0/1630565078721?e=1784160000&v=beta&t=my2v7D4w5Zq-Kp2NiGr2Yv5kNH1BXpqXioVbUKwOBJ0"/>](https://www.greenwave.ind.br/)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="greenwave" src="https://github.com/user-attachments/assets/f0e1098f-d885-4e16-bf35-02e0dfa0b092" />
+](https://www.greenwave.ind.br/)
 
 **Front-end Developer** \
 [**Greenwave**](https://www.greenwave.ind.br/) • Full-time \
@@ -95,7 +97,8 @@ Linguagens & Tecnologias: `React`, `Typescript`, `React-native`\
 Projetos em destaque: [Sistema semafórico Phor](https://www.greenwave.ind.br/),
 <br/>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="Greenwave" src="https://media.licdn.com/dms/image/v2/D4D0BAQHdbCKw1gP0bg/company-logo_200_200/company-logo_200_200/0/1737385059585/econverse_logo?e=1784160000&v=beta&t=ENkSB9aIzv1zDNmoh03ZJibHiAXFEfftyEosHZkQqDQ"/>](https://www.econverse.com.br/)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" alt="econverse" src="https://github.com/user-attachments/assets/a9a669bb-5ff8-40c7-a629-c09f172025e5" />
+](https://www.econverse.com.br/)
 
 **Front-end Developer** \
 [**Econverse**](https://www.econverse.com.br/) • Full-time \
@@ -112,3 +115,6 @@ Se quiser conversar sobre tecnologia, projetos ou oportunidades, estou sempre ab
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ricardo-teixeira-silva&color=brightgreen&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visualizações do perfil"/>
 </p>
+
+
+
